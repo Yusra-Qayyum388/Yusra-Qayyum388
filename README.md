@@ -34,7 +34,8 @@ I'm a **Computer Science graduate** with a growing passion for **Data Science an
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/yusra-qayyum-747044234/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/yusra-qayyum-747044234/)
+
 - 📍 Based in Lahore, Pakistan  
 - 📩 Open to entry-level opportunities & collaborations
 
